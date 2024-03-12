@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=childishclassifier&label=Profile%20views&color=0e75b6&style=flat" alt="childishclassifier" /> </p>
 
-- 🌱 I’m currently learning **NLP LLM**
+- 🌱 I’m currently learning **NLP and LLM**
 
 - 💬 Ask me about **Python, SQL, PowerBI**
 
